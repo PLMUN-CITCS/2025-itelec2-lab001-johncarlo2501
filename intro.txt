@@ -1,4 +1,0 @@
-Hello world!
-Name: John Carlo Nuqui
-Course: BSIT
-Interests in programming: walaaaaa
